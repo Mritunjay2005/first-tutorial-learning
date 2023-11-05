@@ -1,3 +1,5 @@
 # first-tutorial-learning
 this is my repo while i am learning
-Author Mritunjay
+Author Mritunjay Tiwari
+hello world
+
